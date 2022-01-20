@@ -1,0 +1,67 @@
+
+*{
+    background-color: transparent;
+}
+
+body{
+    background-image: url("fondo.png");
+  background-size: 35em 30em;
+}
+
+h1{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    color: #240185;
+    font-size: 6em;
+    text-shadow: 0em 0em 1.5em #00b3fa,0em 0em 0.5em #00b3fa;
+    margin: 1em 0em 0em 15%;
+}
+
+#autoIn{
+    font-size: 3em;
+    border: 0.2em dashed #00b3fa7a;
+    font-family: 'Satisfy', cursive;
+    color: #00b3fa;
+    background-color: transparent;
+    border-radius: 0em 0em 2em 2em ;
+    text-shadow: 0em 0em 0.4em #00b3fa,0em 0em 0.4em #00b3fa;
+    text-align: center; 
+    padding: 0.3em 2em 0.3em 2em;
+    margin: 3em 0em 0em 1%;
+}
+
+#autoAgregar{
+    font-size: 3.2em;
+    font-family: 'Satisfy', cursive;
+    border: 0.2em double #00b3fa7a;
+    border-radius: 0em 0em 2em 2em ;
+    text-shadow: 0em 0em 0.4em #00b3fa,0em 0em 0.4em #00b3fa;
+    color: #00b3fa;
+    padding: 0.3em 2em 0.3em 2em;
+    margin: 3em 0em 0em 1%;
+}
+
+#autoMostrar{
+    font-size: 3.4em;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    margin: -7em 0em 0em 55%;
+}
+
+
+#autoBorrarPrimero , #autoBorrarUltimo{
+    font-size: 3.2em;
+    font-family: 'Satisfy', cursive;
+    border: 0.2em solid #00b3fa7a;
+    color: #00b3fa;
+    text-shadow: 0em 0em 0.4em #00b3fa,0em 0em 0.4em #00b3fa;
+    border-radius: 0em 0em 2em 2em;
+    padding: 0em 1.3em;
+}
+
+#autoBorrarPrimero{
+margin: 3em 0em 0em 1%;
+}
+
+#autoBorrarUltimo{
+    margin: 3em 0em 0em 7.2%;
+    }
